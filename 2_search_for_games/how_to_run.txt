@@ -1,0 +1,19 @@
+the three files in the folder "codes" are what I wrote for this assignment: 
+minmax.py
+ABPruning.py
+MooreMachine.py
+
+step 1. 
+use minmax.py to generate game tree using Minimax Algorithm.
+change the number in the last few lines to 7,  9, 12 and run to generate dot files for game tree
+paste the output in GraphViz to layout the visualized game tree
+
+step 2. 
+use ABPruning.py to generate game tree using Alpha-Beta Pruning Algorithm.
+change the number in the last few lines to 7,  9, 12 and run to generate dot files for game tree
+paste the output in GraphViz to layout the visualized game tree 
+
+step 3.
+use MooreMachine.py to generate Moore Machine graph
+change the number in the last few lines to 7,  15, 21 and run to generate dot files for Moore Machine graph
+paste the output in GraphViz to layout the visualized Moore Machine graph
