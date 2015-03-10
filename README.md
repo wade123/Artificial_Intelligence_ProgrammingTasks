@@ -1,4 +1,4 @@
-Artificial Intelligence course programming-assigns
+Artificial Intelligence course programming assignments
 =======
 Programming assignments done in AI course in Fall 2014
 -----------
